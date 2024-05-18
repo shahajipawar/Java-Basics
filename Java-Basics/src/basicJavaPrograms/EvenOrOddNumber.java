@@ -1,4 +1,4 @@
-package basicJava;
+package basicJavaPrograms;
 
 public class EvenOrOddNumber {
 
